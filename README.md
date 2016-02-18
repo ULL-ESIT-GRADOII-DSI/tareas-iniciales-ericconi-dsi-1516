@@ -11,29 +11,29 @@ Para instalar nodeJS se ha accedido a la
 * Comprobación de correcto funcionamiento de npm:
 
 Para comprobar el correcto funcionamiento de npm hemos ejecutado el comando : npm version.
-![Comprobando comando](images/npmversion.png)
+![Comprobando comando](images/npmversion.PNG)
 
 * Express
 Para instalar Express se ha introducido el comando en el cmd de windows npm install express --save, se incluyela opción --save para que se guarde de forma permanente en la lista de dependencias.
 
-![Instalando Express](images/express.png)
+![Instalando Express](images/express.PNG)
 
 * Cambio de la foto de perfil(Campus virtual)
 
-![Foto CampusVirtual](images/fotocampus.png)
+![Foto CampusVirtual](images/fotocampus.PNG)
 
 * Atom
 
 Para instalar Atom se ha accedido a la [página oficial de Atom](https://atom.io/) y se descargó e instaló.
 
-![Atom](images/atom.png)
+![Atom](images/atom.PNG)
 
 
 * GitHub
 
 Para instalar Github APP en windows se ha accedido a la [página oficial ](https://desktop.github.com/) e se instaló la version de desktop que nos permite trabajar con una interfaz
 
-![Github desktop](images/github.png)
+![Github desktop](images/github.PNG)
 
 * Cloud9
 Como ya se tiene una cuenta creada en Cloud9 vinculamos la existente con GitHub:
@@ -48,7 +48,7 @@ Para instalar pandoc se ha accedido al siguiente enlace [Enlace pandoc](https://
 
 Para traducir de markdown a html hemos utilizado pandoc
 con el siguiente comando
-![Comando](images/pandoc1.png)
+![Comando](images/pandoc1.PNG)
 
 [Página personal de prácticas](http://alu0100536652.github.io/)
 

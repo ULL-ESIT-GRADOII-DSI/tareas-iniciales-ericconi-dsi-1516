@@ -55,7 +55,3 @@ Para traducir de ***markdown*** a html hemos utilizado pandoc
 con el siguiente comando
 
 ![Comando](images/pandoc1.PNG)
-
-[Página personal de prácticas](http://alu0100786330.github.io/)
-
-[Página de la práctica inicial](http://alu0100536652.github.io/Tutorial-STW/)

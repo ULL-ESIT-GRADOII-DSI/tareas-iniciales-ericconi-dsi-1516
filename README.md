@@ -4,7 +4,7 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura Si
 
 * NodeJS
 
-Para instalar ** *NodeJS* ** se ha accedido a la
+Para instalar ***NodeJS*** se ha accedido a la
 [página oficial de nodeJS](https://nodejs.org/en/)
  donde se ha encontrado dos versiones, una estable y la ultima version reciente.Se instaló la versión estable.![Version estable nodejs](images/nodejs.jpg)
 
@@ -12,13 +12,13 @@ Para el desarrollo de la práctica instalaremos la última versión reciente par
 
 * Comprobación de **correcto funcionamiento de npm**:
 
-Para comprobar el correcto funcionamiento de npm hemos ejecutado el comando : * **npm version** *. Tras la correcta ejecución del mismo damos por adecuada la intrepretación de comandos en el mismo.
+Para comprobar el correcto funcionamiento de npm hemos ejecutado el comando : ***npm version***. Tras la correcta ejecución del mismo damos por adecuada la intrepretación de comandos en el mismo.
 
 ![Comprobando comando](images/npmversion.PNG)
 
 * Express
 
-Para instalar Express se ha introducido el comando en el cmd de windows npm install ** *express --save* **, se incluyela opción ** *--save* ** para que se guarde de forma permanente en la lista de dependencias.
+Para instalar Express se ha introducido el comando en el cmd de windows npm install ***express --save***, se incluyela opción ***--save*** para que se guarde de forma permanente en la lista de dependencias.
 
 ![Instalando Express](images/express.PNG)
 
@@ -47,11 +47,11 @@ Como ya se tiene una cuenta creada en Cloud9 (realizado en otras asignaturas) vi
 
 * Pandoc
 
-Para instalar ** *pandoc* ** se ha accedido al siguiente enlace [ pandoc](https://github.com/jgm/pandoc/releases/tag/1.16.0.2) y se descargó el ** *msi* ** (versión ejecutable para windows) ![Pandoc](images/pandoc.jpg)
+Para instalar ***pandoc*** se ha accedido al siguiente enlace [ pandoc](https://github.com/jgm/pandoc/releases/tag/1.16.0.2) y se descargó el ***msi*** (versión ejecutable para windows) ![Pandoc](images/pandoc.jpg)
 
 * Markdown
 
-Para traducir de ** *markdown* ** a html hemos utilizado pandoc
+Para traducir de ***markdown*** a html hemos utilizado pandoc
 con el siguiente comando
 
 ![Comando](images/pandoc1.PNG)

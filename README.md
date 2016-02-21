@@ -7,8 +7,16 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura Si
 * Atom
 * GitHub
 * Cloud9
+* Pandoc
 * Markdown
 
-[Página personal de prácticas](http://alu0100536652.github.io/)
+* Integrantes:
+
+[Página personal de prácticas Eric Rafael Ramos Suárez](http://alu0100786330.github.io/)
+
+[Página personal de prácticas Constanza León Baritussio](http://alu0100673647.github.io/)
+
+* Enlace del tutorial:
 
 [Página de la práctica inicial](http://alu0100536652.github.io/Tutorial-STW/)
+

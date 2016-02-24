@@ -18,5 +18,4 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura Si
 
 * Enlace del tutorial:
 
-[Página de la práctica inicial](http://alu0100536652.github.io/Tutorial-STW/)
-
+[Página de la práctica inicial](http://alu0100786330.github.io/tareas-iniciales-ericconi-dsi-1516/)
